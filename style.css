@@ -24,8 +24,7 @@
 
 body{
 font-family: 'Play', sans-serif;
-background-color:black;
-color: white;
+background-color: skyblue;
 }
 
 img{
@@ -33,7 +32,14 @@ width: 400px;
 height: 400px;
 }
 
-h1{
+#opinion{
     text-align: center;
-    border: dotted;
+    text-shadow: 2px 2px white;
+    padding: 25px;
 }
+
+#source{
+    text-shadow: 2px 2px black;
+    padding: 25px;
+}
+
