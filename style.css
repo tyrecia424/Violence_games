@@ -24,13 +24,13 @@
 
 body{
 font-family: 'Play', sans-serif;
-background-image: url(https://www.shrinktank.com/wp-content/uploads/2018/03/videogameviolece.png);
+background-color:black;
 color: white;
 }
 
 img{
-width: 500px;
-height: 500px;
+width: 400px;
+height: 400px;
 }
 
 h1{
